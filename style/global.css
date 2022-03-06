@@ -14,7 +14,7 @@ html {
     --blue: #3485FF;
     --background: #FBFCFF;
     --overlay: #040911;
-    --icon-details: #A5B0C1;
+    --icons-details: #A5B0C1;
 
     --grey-dark: #4D5E77;
     --grey-blue: #A1B2CD;
@@ -86,6 +86,7 @@ button:hover, .button:hover {
 
 button > img, .button > img {
     margin-right: 1rem;    
+    width: 2rem;
 }
 
 button.outlined, .button.outlined {
