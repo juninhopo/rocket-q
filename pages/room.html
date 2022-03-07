@@ -9,6 +9,7 @@
     <!-- CSS -->
     <link rel="stylesheet" href="/style/global.css">
     <link rel="stylesheet" href="/style/room.css">
+    <link rel="stylesheet" href="/style/modal.css">
 
     <!-- FONTS -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -161,6 +162,31 @@
             </section>
         </main>
     </div>
+
+    <!-- modal -->
+
+    <div class="modal-wrapper">
+        <div class="modal">
+            <h2>Excluir</h2>
+            <p>Tem certeza que você deseja excluir esta pergunta?</p>
+
+            <form action="#">
+                <label for-id="password" class="sr-only">Digite a senha de Administrador</label>
+                <input type="password" id="password" name="password" placeholder="Digite a senha de Administrador">
+
+                <div class="buttons">
+                    
+                    <div class="button">
+                        Cancelar
+                    </div>
+                    
+                    <button>Sim, excluir</button>
+
+                </div>
+            </form>
+        </div>
+    </div>
+
 </body>
 
 </html>
