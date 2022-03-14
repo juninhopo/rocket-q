@@ -1,0 +1,20 @@
+{
+  "name": "rocket-q",
+  "version": "1.0.0",
+  "description": "Projeto desenvolvido para gerenciar perguntas anonimas de usuários direcionadas ao dono da página. Projeto desenvolvido na semana NLW Rocketseat na missão discover",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juninhopo/rocket-q.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juninhopo/rocket-q/issues"
+  },
+  "homepage": "https://github.com/juninhopo/rocket-q#readme"
+}
